@@ -10,3 +10,5 @@ In order to express the story of the palm tree and I, and how my love nutured my
 
 ## Challenges 
 One of the most challenging parts of creating the game was finding suitable illustrations. While there are a few free illustrations for common games availabe, it was hard to find illustrations of a girl readinging or separate chuncks of a tree trunk to build upon. Moreover, while creating the game, I encountered a few errors. Since my professor is not a programmer, whenever I got an error, I got very frustrated and anxious since I had to figure it out all on my own. However, in the end, I managed to make it all work. 
+
+## Artist Statement
